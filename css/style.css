@@ -17,3 +17,13 @@
 .custom-padding {
     margin-top: 20px;
 }
+
+.card-padding {
+    padding: 20px;
+    
+}
+
+.img-cs {
+    width: auto;
+    height: 400px;
+}
