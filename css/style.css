@@ -1,0 +1,19 @@
+.img_profil{
+    max-width: 50%;
+}
+
+.container {
+    padding : 50px;
+}
+
+.data {
+    background-color: aqua;
+}
+
+.skil {
+    background-color: bisque;
+}
+
+.custom-padding {
+    margin-top: 20px;
+}
